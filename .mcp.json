@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "raven-stellar": {
+      "type": "http",
+      "url": "https://raven.stellar.org/mcp"
+    }
+  }
+}
